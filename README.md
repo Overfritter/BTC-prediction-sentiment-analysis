@@ -1,10 +1,10 @@
-**Bitcoin price prediction using financial sentiment analysis by GPT-models**
+# **Bitcoin price prediction using financial sentiment analysis by GPT-models**
 
 This repository contains code to perform financial sentiment analysis using OpenAI's ChatGPT, as well as predictive modeling using time series cross-validation (TSCV) and linear regression techniques. Additionally, you will find exploratory data analysis (EDA) scripts to better understand the dataset and sentiment score trends.
 
 
-Repository Structure
-The repository is organized as follows:
+
+### The repository is organized as follows:
 
 sentiment_analysis/: Contains the code to perform sentiment analysis on financial news or social media data using ChatGPT. This includes scripts to send batch requests to the OpenAI API and process the sentiment scores.
 
@@ -20,15 +20,15 @@ requirements.txt: A file listing the required Python packages to run the code in
 
 README.md: This file.
 
-Getting Started
-Prerequisites
-To run the code in this repository, you will need the following:
+
+
+### To run the code in this repository, you will need the following:
 
 An OpenAI API key for ChatGPT
 Required Python packages (listed in requirements.txt)
 
-Contributing
+### Contributing
 All contributions are welcome! Please feel free to submit a Pull Request or open an issue if you have suggestions or find any bugs.
 
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
