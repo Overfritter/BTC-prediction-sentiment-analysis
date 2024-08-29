@@ -14,8 +14,6 @@ eda/: Includes scripts for Exploratory Data Analysis (EDA) to help you understan
 
 data/: This directory contains the datasets used in the analysis, such as historical Bitcoin prices and sentiment scores.
 
-requirements.txt: A file listing the required Python packages to run the code in this repository.
-
 README.md: This file.
 
 
