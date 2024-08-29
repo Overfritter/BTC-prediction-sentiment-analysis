@@ -6,15 +6,13 @@ This repository contains code to perform financial sentiment analysis using Open
 
 ### The repository is organized as follows:
 
-sentiment_analysis/: Contains the code to perform sentiment analysis on financial news or social media data using ChatGPT. This includes scripts to send batch requests to the OpenAI API and process the sentiment scores.
+sentiment_analysis/: Contains the code to perform sentiment analysis on Tweets using ChatGPT. This includes scripts to send batch requests to the OpenAI API and process the sentiment scores.
 
 btc_price_prediction/: Houses the linear regression models that use Time Series Cross-Validation (TSCV) to predict Bitcoin prices based on the sentiment scores generated from the sentiment analysis.
 
 eda/: Includes scripts for Exploratory Data Analysis (EDA) to help you understand the data, visualize trends, and gain insights from the sentiment scores and Bitcoin price data.
 
 data/: This directory contains the datasets used in the analysis, such as historical Bitcoin prices and sentiment scores.
-
-notebooks/: Jupyter notebooks for running the code interactively and documenting the process.
 
 requirements.txt: A file listing the required Python packages to run the code in this repository.
 
